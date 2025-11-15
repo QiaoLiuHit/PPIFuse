@@ -6,13 +6,13 @@ This is the official implementation of the PPIFuse model proposed in the paper (
 
 ***
 
-### <img src="G:\BaiduNetdiskDownload\阿里图标\结构 空间.svg" style="zoom:25%;" />Network Architecture
+### <img src="https://github.com/Zhangqh1/icon/blob/main/%E7%BB%93%E6%9E%84%20%E7%A9%BA%E9%97%B4.svg" width="30" />Network Architecture
 
 ------
 
 ![](https://github.com/Zhangqh1/icon/blob/main/PPIFuse_framework.png)
 
-### <img src="G:\BaiduNetdiskDownload\阿里图标\设 置-树菜单设置-copy.svg" style="zoom:25%;" /> Requirements
+### <img src="https://github.com/Zhangqh1/icon/blob/main/%E8%AE%BE%20%E7%BD%AE-%E6%A0%91%E8%8F%9C%E5%8D%95%E8%AE%BE%E7%BD%AE-copy.svg" width="30" /> Requirements
 
 ***
 
@@ -35,7 +35,7 @@ Please run
 python run_training_PPIFuse.py
 ```
 
-### <img src="G:\BaiduNetdiskDownload\阿里图标\测试.svg" style="zoom:25%;" /> Pre-trained models & Testing
+### <img src="https://github.com/Zhangqh1/icon/blob/main/%E6%B5%8B%E8%AF%95.svg" width="30" /> Pre-trained models & Testing
 
 ***
 
@@ -45,18 +45,19 @@ Download pre-trained models from [here](https://pan.baidu.com/s/142M1R9MaXHwcQFI
 python run_test.py.
 ```
 
-### <img src="G:\BaiduNetdiskDownload\阿里图标\结果.svg" style="zoom:25%;" /> Fusion results
+### <img src="https://github.com/Zhangqh1/icon/blob/main/%E7%BB%93%E6%9E%9C.svg" width="30" /> Fusion results
 
 ***
 
 The fusion results for the TNO, MSRS, M3FD, and LLVIP datasets are available [here](https://pan.baidu.com/s/1MqCXpfTgnHuDodX4bVayyQ), password n2py.
 
-### <img src="https://github.com/Zhangqh1/icon/blob/main/%E5%BC%95%E7%94%A8.svg" style="zoom:5%;" /> Citation
+### <img src="https://github.com/Zhangqh1/icon/blob/main/%E5%BC%95%E7%94%A8.svg" width="30" /> Citation
 
 ***
 
 
 If you have any questions, feel free to contact us(zhangqh202503@163.com or liuqiao.hit@gmail.com).
+
 
 
 
