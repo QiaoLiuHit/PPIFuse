@@ -51,11 +51,12 @@ python run_test.py.
 
 The fusion results for the TNO, MSRS, M3FD, and LLVIP datasets are available [here](https://pan.baidu.com/s/1MqCXpfTgnHuDodX4bVayyQ), password n2py.
 
-### <img src="https://github.com/Zhangqh1/icon/blob/main/%E5%BC%95%E7%94%A8.svg" style="zoom:5%;" /> Citation
+### <img src="https://github.com/Zhangqh1/icon/blob/main/%E5%BC%95%E7%94%A8.svg" style="zoom25%;" /> Citation
 
 ***
 
 
 If you have any questions, feel free to contact us(zhangqh202503@163.com or liuqiao.hit@gmail.com).
+
 
 
