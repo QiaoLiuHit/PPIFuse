@@ -14,11 +14,14 @@ dataset = 'TNO'
 
 # set gpu id
 device = torch.device("cuda:{}".format(0) if torch.cuda.is_available() else "cpu")
+
 # source image path
 root_path = '/data/zhangqh/DataSet/Test_Dataset/TNO_test'
+
 # load all images
 img_list = os.listdir(os.path.join(root_path, 'ir'))
-# test for multiple epoch's checkpoint or single checkpoint
+
+# Pad the input image to a multiple of 64.
 window_size = 64
 
 # path for save fused image
