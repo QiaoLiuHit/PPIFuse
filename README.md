@@ -10,7 +10,7 @@ This is the official implementation of the PPIFuse model proposed in the paper (
 
 ------
 
-![](D:\MyFolder\Desktop\paper2\论文中的图片\PPIFuse_framework.png)
+![](https://github.com/Zhangqh1/icon/blob/main/PPIFuse_framework.png)
 
 ### <img src="G:\BaiduNetdiskDownload\阿里图标\设 置-树菜单设置-copy.svg" style="zoom:25%;" /> Requirements
 
@@ -54,5 +54,6 @@ The fusion results for the TNO, MSRS, M3FD, and LLVIP datasets are available [he
 ### <img src="G:\BaiduNetdiskDownload\阿里图标\引用.svg" style="zoom:25%;" /> Citation
 
 ***
+
 
 If you have any questions, feel free to contact us(zhangqh202503@163.com or liuqiao.hit@gmail.com).
