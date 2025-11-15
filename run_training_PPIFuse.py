@@ -10,8 +10,8 @@ from models.loss import energy_conservation_loss
 bar_format = '{l_bar}{bar}| {n_fmt}/{total_fmt} '
 
 # prepare training dataset, please config your dataset path
-root_MSRS_train_dir = '/data/zhangqh/DataSet/new_MSRS/IR'
-root_LLVIP_train_dir = '/data/zhangqh/DataSet/new_LLVIP/IR'
+root_MSRS_train_dir = '/data/zhangqh/DataSet/MSRS/IR'
+root_LLVIP_train_dir = '/data/zhangqh/DataSet/LLVIP/IR'
 
 MSRS_train = data_preprocess(root_MSRS_train_dir)
 LLVIP_train = data_preprocess(root_LLVIP_train_dir)
