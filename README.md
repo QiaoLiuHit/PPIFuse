@@ -25,7 +25,9 @@ This is the official implementation of the PPIFuse model proposed in the paper (
 - tqdm 4.67.1
 - matplotlib 3.7.5
 
-### <img src="https://github.com/Zhangqh1/icon/blob/main/%E8%AE%AD%E7%BB%83-train.svg" width="40" style="vertical-align: middle;" /> Training
+### <span style="display: flex; align-items: center；">
+<img src="https://github.com/Zhangqh1/icon/blob/main/%E8%AE%AD%E7%BB%83-train.svg" width="40" /> Training
+</span>
 
 ***
 
@@ -57,6 +59,7 @@ The fusion results for the TNO, MSRS, M3FD, and LLVIP datasets are available [he
 
 
 If you have any questions, feel free to contact us(zhangqh202503@163.com or liuqiao.hit@gmail.com).
+
 
 
 
