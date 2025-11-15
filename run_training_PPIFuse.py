@@ -19,7 +19,7 @@ LLVIP_train = data_preprocess(root_LLVIP_train_dir)
 TraningDatset = MSRS_train + LLVIP_train
 train_dataloader = DataLoader(TraningDatset, batch_size=16, drop_last=True, shuffle=True)
 
-# Create STFNet network model
+# Create PPIFuse network model
 model = FusionUNet.Net()
 device = torch.device("cuda:{}".format(0) if torch.cuda.is_available() else "cpu")
 model = model.to(device)
